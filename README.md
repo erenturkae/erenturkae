@@ -2,24 +2,9 @@
 
 **Artificial Intelligence and Data Engineering @ Istanbul Technical University**
 
-# 👨‍💻 Eren Erenturk
-
-```text
-erene@itu:~$ whoami
-Abdullah Eren Erentürk
-erene@itu:~$ cat current_status.txt
-🎓 B.Sc. Artificial Intelligence & Data Engineering @ Istanbul Technical University
-🎯 Incoming M.Sc. Data Science candidate (Target: ETH Zürich)
-erene@itu:~$ ./run_focus.sh
-> Executing...
-> Focus: Data Infrastructure | Mathematical Optimization | Software Engineering
-```
 ---
 
-
-
 ### 📊 Overview
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erenturkae&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" width="48%" />
