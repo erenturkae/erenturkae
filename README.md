@@ -8,8 +8,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erenturkae&show_icons=true&hide_border=true&bg_color=00000000&title_color=555555&icon_color=555555&text_color=777777" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenturkae&layout=compact&hide_border=true&bg_color=00000000&title_color=555555&text_color=777777" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erenturkae&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
 ---
